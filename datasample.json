@@ -1,0 +1,42 @@
+{
+    dst : 10
+    type : fun run 
+    instr : [
+        {
+            "content " : "",
+            imag : [
+                "url"
+                "url"
+                "url"
+                "url"
+                "url"
+            ] 
+            
+        }
+        {
+            "content " : "",
+            imag : [
+                "url"
+            ] 
+            
+        }
+        {
+            "content " : "",
+            imag : [
+                "url"
+            ] 
+            
+        }
+        {
+            "content " : "",
+            imag : [
+                "url"
+            ] 
+            
+        }
+        
+    ]
+
+
+
+}
